@@ -13,7 +13,7 @@ This repo provides the C++ implementation of [YOLOv6](https://github.com/meituan
 - OpenCV 4.5.1 with CUDA
 
 ## Benchmark
-The following result obtained after performing inference 1000 iterations. It includes image pre-processing, model inference and post-processing (non-max suppression) times. The resolution of the input video was 1280x720 which can be downloaded on [youtube](https://www.youtube.com/watch?v=wqctLW0Hb_0&t=1214s).
+The following result obtained after performing inference 1000 iterations. It includes image pre-processing, model inference and post-processing (non-max suppression) times. The resolution of the input video was 1280x720 which can be downloaded from [Youtube](https://www.youtube.com/watch?v=wqctLW0Hb_0&t=1214s).
 
 | Model | Device | Mode | Input Shape(HxW) | FPS |
 |-|-|:-:|:-:|:-:|
