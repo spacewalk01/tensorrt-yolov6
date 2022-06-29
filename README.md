@@ -28,6 +28,8 @@ The following result obtained after performing inference 1000 iterations. It inc
 
 - Step1: Download a pretrained onnx model from the YOLOv6 [release](https://github.com/meituan/YOLOv6/releases/tag/0.1.0)
 
+- Step2: Open the solution with Visual Studio and select `x64` and `Release` for the configuration
+
 - Step2: Go to where function `initializeSampleParams()` is defined and modify parameters 
 
 ```cpp
