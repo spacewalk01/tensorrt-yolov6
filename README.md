@@ -1,5 +1,5 @@
 # TensorRT-YOLOv6
-This repo provides the C++ implementation of [YOLOv6](https://github.com/meituan/YOLOv6) based on TensorRT for performing object detection in real-time on Windows applications.
+This repo provides the C++ implementation of [YOLOv6](https://github.com/meituan/YOLOv6) based on TensorRT for performing object detection in real-time.
 <p align="center">
   <img src="result.gif" />
 </p>
