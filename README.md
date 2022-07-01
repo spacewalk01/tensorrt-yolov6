@@ -59,6 +59,7 @@ The following result obtained after performing inference 1000 iterations. It inc
     //       By default, fp32
     params.fp16 = true; 
 ```
+## Comparison between YOLOv5 vs YOLOv6
 
 ## Todo
 - [x] Benchmark Test with different yolov6 versions 
