@@ -30,7 +30,7 @@ The following result obtained after performing inference 1000 iterations. It inc
 
 - Step2: Open the solution with Visual Studio and select `x64` and `Release` for the configuration
 
-- Step3: Go to where function `initializeSampleParams()` is defined and modify parameters 
+- Step3: Go to where function `initializeSampleParams()` is defined and modify the parameters 
 
 ```cpp
     // The engine file to generate or to load
