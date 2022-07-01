@@ -59,7 +59,8 @@ The following result obtained after performing inference 1000 iterations. It inc
     //     By default, fp32
     params.fp16 = true; 
 ```
-## Comparison between YOLOv5 vs YOLOv6
+## Comparison
+Here we can see the comparison between YOLOv6n and YOLOv5n models:
 <p align="center">
   <img src="Yolov5vsyolov6.gif" />
 </p>
