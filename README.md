@@ -60,6 +60,9 @@ The following result obtained after performing inference 1000 iterations. It inc
     params.fp16 = true; 
 ```
 ## Comparison between YOLOv5 vs YOLOv6
+<p align="center">
+  <img src="Yolov5vsyolov6.gif" />
+</p>
 
 ## Todo
 - [x] Benchmark Test with different yolov6 versions 
