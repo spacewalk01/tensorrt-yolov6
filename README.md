@@ -61,9 +61,6 @@ The following result obtained after performing inference 1000 iterations. It inc
 ```
 ## Comparison
 Here we can see the comparison between YOLOv6n and YOLOv5n models:
-<p align="center">
-  <img src="Yolov5vsyolov6.gif" />
-</p>
 <img src="Yolov5vsyolov6.gif" width="1000"/>
 ## Todo
 - [x] Benchmark Test with different yolov6 versions 
