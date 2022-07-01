@@ -71,5 +71,5 @@ Here we can see the comparison between YOLOv6n and YOLOv5n models:
 - [ ] Fix arguments (some of the parameters like model input size (640x640) hard-coded)
 
 ## Reference
-  - based on [yolov4_deepstream](https://github.com/NVIDIA-AI-IOT/yolov4_deepstream/tree/master/tensorrt_yolov4) source
-  - [YOLOv6](https://github.com/meituan/YOLOv6)
+ - [yolov4_deepstream](https://github.com/NVIDIA-AI-IOT/yolov4_deepstream/tree/master/tensorrt_yolov4) 
+ - [YOLOv6](https://github.com/meituan/YOLOv6)
