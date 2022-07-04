@@ -66,9 +66,8 @@ Here we can see the comparison between YOLOv6n and YOLOv5n models:
 
 ## Todo
 - [x] Benchmark Test with different yolov6 versions 
-- [ ] Preprocessing & postprocessing using CUDA
-- [ ] Documentation
-- [ ] Fix arguments (some of the parameters like model input size (640x640) hard-coded)
+- [x] Documentation
+- [x] Fix arguments (some of the parameters like model input size (640x640) hard-coded)
 
 ## Reference
  - [yolov4_deepstream](https://github.com/NVIDIA-AI-IOT/yolov4_deepstream/tree/master/tensorrt_yolov4) 
