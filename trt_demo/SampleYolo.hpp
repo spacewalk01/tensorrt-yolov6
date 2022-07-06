@@ -31,7 +31,6 @@
 #include "NvOnnxParser.h"
 #include "NvInfer.h"
 #include <cuda_runtime_api.h>
-#include "resize.h"
 #include <cstdlib>
 #include <fstream>
 #include <iostream>
