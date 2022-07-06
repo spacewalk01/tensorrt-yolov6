@@ -63,7 +63,7 @@ The following result was obtained after performing inference 1000 iterations. It
 ## Todo
 - [x] Benchmark Test with different yolov6 versions 
 - [x] Documentation
-- [x] Fix arguments (some of the parameters like model input size (640x640) hard-coded)
+- [x] Fix arguments
 
 ## Reference
  - [yolov4_deepstream](https://github.com/NVIDIA-AI-IOT/yolov4_deepstream/tree/master/tensorrt_yolov4) 
