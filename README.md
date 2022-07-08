@@ -67,4 +67,4 @@ The following result was obtained after performing inference 1000 iterations. It
 
 ## Reference
  - [yolov4_deepstream](https://github.com/NVIDIA-AI-IOT/yolov4_deepstream/tree/master/tensorrt_yolov4) 
- - [YOLOv6](https://github.com/meituan/YOLOv6)
+ - [yolov6](https://github.com/meituan/YOLOv6)
